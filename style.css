@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padd.10;
+  }
+canvas; {
+  display: block;
+  margin:10;
+ 
+}
+  
+.NL {
+  margin-top:30px;
+  margin-bottom:40px;
+  background: #B090EC
+
+}
+
+.LN{
+  margin-top:300px;
+  margin-bottom:40px;
+  background: #B090EC
+   }
+
+.NG{
+  width:500px;
+}
+
+nav li{
+  display: inline;
+  margin:0 0 0 200px;
+}
+
+nav a {
+  text-transform: uppercase;
+  color:#03A9F4;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
